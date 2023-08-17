@@ -1,0 +1,17 @@
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\03 - Business Logic Layer.csproj.AssemblyReference.cache
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\03 - Business Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\03 - Business Logic Layer.AssemblyInfoInputs.cache
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\03 - Business Logic Layer.AssemblyInfo.cs
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\03 - Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\bin\Debug\net7.0\03 - Business Logic Layer.deps.json
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\bin\Debug\net7.0\03 - Business Logic Layer.dll
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\bin\Debug\net7.0\03 - Business Logic Layer.pdb
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\bin\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\bin\Debug\net7.0\02 - Business Model Layer.dll
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\bin\Debug\net7.0\02 - Business Model Layer.pdb
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\bin\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\03 - Business Logic Layer.csproj.CopyComplete
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\03 - Business Logic Layer.dll
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\refint\03 - Business Logic Layer.dll
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\03 - Business Logic Layer.pdb
+C:\Users\michael_s\source\repos\PortsApi\03 - Business Logic Layer\obj\Debug\net7.0\ref\03 - Business Logic Layer.dll
