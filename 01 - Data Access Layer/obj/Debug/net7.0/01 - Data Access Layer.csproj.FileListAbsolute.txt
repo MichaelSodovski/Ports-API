@@ -1,0 +1,15 @@
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.deps.json
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.runtimeconfig.json
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.AssemblyInfoInputs.cache
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.AssemblyInfo.cs
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\EFCorePluralizer.cs
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\refint\01 - Data Access Layer.dll
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.genruntimeconfig.cache
+C:\Users\michael_s\source\repos\PortsApi\01 - Data Access Layer\obj\Debug\net7.0\ref\01 - Data Access Layer.dll
